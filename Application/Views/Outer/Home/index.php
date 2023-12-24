@@ -17,13 +17,10 @@ $lang = Model::get(Language::class);
             <img alt="" width="100%" src="<?= URL::asset('Application/Assets/Outer/home/images/slider/1.png') ?>">
         </div>
         <div class="hero_slide">
-            <img alt="" width="100%" src="<?= URL::asset('Application/Assets/Outer/home/images/slider/3.png') ?>">
-        </div>
-        <div class="hero_slide">
-            <img alt="" width="100%" src="<?= URL::asset('Application/Assets/Outer/home/images/slider/4.png') ?>">
-        </div>
-        <div class="hero_slide">
             <img alt="" width="100%" src="<?= URL::asset('Application/Assets/Outer/home/images/slider/2.png') ?>">
+        </div>
+        <div class="hero_slide">
+            <img alt="" width="100%" src="<?= URL::asset('Application/Assets/Outer/home/images/slider/3.png') ?>">
         </div>
     </div>
 </section>
