@@ -43,12 +43,12 @@ $number = $config->whatsapp_number;
          </div>
          <div class="col-lg-4 text-right sm-text-center footer-social">
             <ul class="list-inline mb-0 ">
-               <li class="list-inline-item">
-                  <a target="_blank" href="https://twitter.com/waqf_kau"><i class="fab fa-twitter"></i></a>
-               </li>
-               <li class="list-inline-item">
-                  <a target="_blank" href="https://www.youtube.com/@waqforg/videos"><i class="fab fa-youtube"></i></a>
-               </li>
+                <li class="list-inline-item">
+                    <a target="_blank" href="https://twitter.com/jeem_stage?s=21&t=JCLKldtbj8mI3pfdf52Y0w"><i class="fab fa-twitter"></i></a>
+                </li>
+                <li class="list-inline-item">
+                    <a target="_blank" href="https://www.youtube.com/@jeem_stage"><i class="fab fa-youtube"></i></a>
+                </li>
             </ul>
             <span class="footer-copyright"><?= $lang('copyright', ['date' => date('Y')]) ?></span>
          </div>
