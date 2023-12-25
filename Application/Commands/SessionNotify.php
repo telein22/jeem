@@ -5,6 +5,7 @@ namespace Application\Commands;
 use Application\Dtos\FirebaseNotification;
 use Application\Dtos\FirebaseNotificationData;
 use Application\Helpers\FirebaseHelper;
+use Application\Helpers\TenantHelper;
 use Application\Models\Participant;
 use Application\ThirdParties\Whatsapp\Whatsapp;
 use Application\Models\Language;
